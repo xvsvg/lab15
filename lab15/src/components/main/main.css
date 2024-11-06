@@ -1,0 +1,8 @@
+.main{
+	position: fixed;
+	margin-top: 20px;
+	width: 100%;
+	height: calc(100%-70px);
+	display: grid;
+	grid-template-areas: "section article aside";
+}
